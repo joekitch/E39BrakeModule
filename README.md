@@ -1,15 +1,21 @@
 # BrakeModule
 ---
 
-This project was created to solve the need for a MY99 BMW 540i (E39) to be able to brake using the semi-autonomous driving software OPENPILOT.
+Fork of a brake module conmtroller originally made by by Killinen
 
-This project has ended for me because, unfortunately, I no longer have the car. However, this was definitely fun to do.
+The original repo of this was designed for a now very old version of Openpilot 
+
+This fork is designed to update the original design, and make it compatible with the latest version of open pilot software (0.9.9) and hardware (comma 3x)
+
+The target vehicle is a 2003 bmw e39 540iT, to be able to brake using the semi-autonomous driving software OPENPILOT.
 
 ---
 
 ### Disclaimer
 
-The software and hardware of this project has been done by fellow that have no knowledge of any kind on automotive, software or hardware developing stuff nor electrical engineering. I just like to get things done. So if some ever implements this, keep in mind that there is some change that the BrakeModule will behave unwantedly or will damage your cars electrical system! If you have better knowledge than I, please contribute on developing this.
+This has only been tested on one car, and not extensively
+
+Do not expect this to save your life, it's a convenience feature at best
 
 ---
 
